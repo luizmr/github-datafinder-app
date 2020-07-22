@@ -8,7 +8,7 @@
     <img alt="githubFinder" title="#githubFinder" src="./assets/gif3.gif"/>
 </h1>
 <h1 align="center">
-    <img alt="githubFinder" title="#githubFinder" src="./assets/gif1.gif" width="400px"/>
+    <img alt="githubFinder" title="#githubFinder" src="./assets/gif4.gif" width="400px"/>
 </h1>
 
 ## 💻 About project
