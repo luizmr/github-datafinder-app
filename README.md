@@ -21,13 +21,15 @@ Personal project built to search every github profile you want and get useful da
 
 You can access the github profile clicking over 'Follow' button and Logout from the application through the button in the Navbar section. With the github API, you can make 60 request per hour, so inside the application you have access about how many requests you can do and how many you did. Also, whenever you access a wrong path in the application, you are redirected to a "Error" page, where you can back home.
 
+Demo: https://githubdatafinder.netlify.app/
+
 ## 🛠 Technology
 
 #### **Website**
 
 -   **[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)**
 -   **[CSS3](https://www.w3schools.com/css/)**
--   **[ReactJs](https://pt-br.reactjs.org/)** : **[Styled-Components](https://styled-components.com/)**, **[React Icons](https://react-icons.github.io/react-icons/)**, **[react-router-dom](https://reactrouter.com/web/guides/quick-start)**, **[React Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)**, **[Context](https://pt-br.reactjs.org/docs/context.html)**.
+-   **[ReactJs](https://pt-br.reactjs.org/)** : **[Styled-Components](https://styled-components.com/)**, **[React Icons](https://react-icons.github.io/react-icons/)**, **[react-router-dom](https://reactrouter.com/web/guides/quick-start)**, **[React Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)**, **[Context API](https://pt-br.reactjs.org/docs/context.html)**.
 -   **[Axios](https://www.npmjs.com/package/axios)**
 
 #### **Utilitaries**
